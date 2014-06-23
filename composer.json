@@ -1,0 +1,16 @@
+{
+    "name": "gimox/iscroll",
+    "type": "library",
+    "description": "iscroll wrapper",
+    "keywords": ["gimox","iscroll"],
+    "homepage": "https://github.com/gimox/iscroll",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giorgio Modoni",
+            "email": "modogio@gmail.com",
+            "homepage": "https://github.com/gimox/iscroll",
+            "role": "Developer"
+        }
+    ]
+}
