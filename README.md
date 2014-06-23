@@ -1,4 +1,4 @@
-iScroll wrapper for composer wrapper 
+iScroll wrapper for composer
 =======
 
 iScroll wrapper for composer project
